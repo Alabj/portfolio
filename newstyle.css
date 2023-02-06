@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    border: 2px;
+    height: 800px;
+
+}
+.one{
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+
+}
+.two{
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+    background-color:deeppink;
+    color: white;
+
+}
+.three{
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;]
+    
+
+}
+.para{
+    text-align: center;
+}
+#buttn{
+    margin-left: 70px; 
+    border-radius: 20px; 
+    background-color: red; 
+    display: block; 
+    width: 50%;
+}
+.buttons{
+   margin-left: 70px; 
+   border-radius: 20px;
+   display: block;
+   width: 50%;
+}
+img{
+  height: 68px;
+   width: 68px;
+    margin-top: 20px;
+   margin-left: 100px;
+}
